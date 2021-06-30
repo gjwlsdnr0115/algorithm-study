@@ -7,7 +7,17 @@
 
 ### Solutions
 - [Standard in/out](./1.in-out)
-- Heap
+- [if](./2.if)
+- [for](./3.for)
+- [while](./4.while)
+- [Array](./5.1d-array)
+- [string](./6.string)
+- [Function](./7.functions)
+- [Math1](./8.math1)
+- [Math2](./9.math2)
+- [Recursion](./10.recursion)
+- [Brute Force](./11.brute)
+- [Sort](./12.sort)
 
 ##
 
