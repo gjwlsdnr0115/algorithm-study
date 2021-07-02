@@ -38,3 +38,6 @@ print(q.get())  # 2
 print(q.get())  # 3
 print(q.get())  # 4
 
+
+l = [1, 2, 3, 4]
+l3 = l + l.reverse()
