@@ -7,6 +7,9 @@
 - [1874 - Stack sequence](https://www.acmicpc.net/problem/1874)
 - [1406 - Editor](https://www.acmicpc.net/problem/1406)
 - [10845 - Queue](https://www.acmicpc.net/problem/10845)
+- [1158 - Josephus](https://www.acmicpc.net/problem/1158)
+- [10866 - Deque](https://www.acmicpc.net/problem/10866)
+- [17413 - Reverse String2](https://www.acmicpc.net/problem/17413)
 
 ##
 
@@ -17,6 +20,9 @@
 - [1874](./1874_stack_sequence.py)
 - [1406](./1406_editor.py)
 - [10845](./10845_queue.py)
+- [1158](./1158_josephus.py)
+- [10866](./10866_deque.py)
+- [17413](./17413_reverse_string2.py)
 
 ##
 
@@ -51,4 +57,23 @@
   >>> l2 = list(reversed(l))
   >>> l2
   [4, 3, 2, 1]
+  ```
+
+- **Get size of `queue` & `deque`**
+  ```
+  import queue
+  from collections import deque
+
+  q = queue.Queue()
+  dq = deque([])
+
+  q.qsize()
+  len(dq)
+  ```
+
+- **Get front and back of `deque`**
+  - Use index
+  ```
+  front = dq[0]
+  back = dq[-1]
   ```
