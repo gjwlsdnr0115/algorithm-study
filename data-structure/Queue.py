@@ -6,8 +6,8 @@ from collections import deque
 # deque init
 dq = deque([])
 
-# add data
 
+# add data
 dq.append(1)
 dq.append(2)
 dq.append(3)
