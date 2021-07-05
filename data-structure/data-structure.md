@@ -10,6 +10,9 @@
 - [1158 - Josephus](https://www.acmicpc.net/problem/1158)
 - [10866 - Deque](https://www.acmicpc.net/problem/10866)
 - [17413 - Reverse String2](https://www.acmicpc.net/problem/17413)
+- [10799 - Pipe](https://www.acmicpc.net/problem/10799)
+- [17298 - Larger Number](https://www.acmicpc.net/problem/17298)
+- [17299 - Frequent Number](https://www.acmicpc.net/problem/17299)
 
 ##
 
@@ -23,6 +26,9 @@
 - [1158](./1158_josephus.py)
 - [10866](./10866_deque.py)
 - [17413](./17413_reverse_string2.py)
+- [10799](./10799_pipe.py)
+- [17298](./17298_larger_num.py)
+- [17299](./17299_frequent_num.py)
 
 ##
 
