@@ -13,6 +13,9 @@
 - [10799 - Pipe](https://www.acmicpc.net/problem/10799)
 - [17298 - Larger Number](https://www.acmicpc.net/problem/17298)
 - [17299 - Frequent Number](https://www.acmicpc.net/problem/17299)
+- [1935 - Postfix2](https://www.acmicpc.net/problem/1935)
+- [1918 - Postfix](https://www.acmicpc.net/problem/1918)
+- [10808 - Alphabet Count](https://www.acmicpc.net/problem/10808)
 
 ##
 
@@ -29,6 +32,10 @@
 - [10799](./10799_pipe.py)
 - [17298](./17298_larger_num.py)
 - [17299](./17299_frequent_num.py)
+- [1935](./1935_postfix2.py)
+- [1918](./1918_postfix.py)
+- [10808](./10808_alphabet_count.py)
+
 
 ##
 
@@ -83,3 +90,10 @@
   front = dq[0]
   back = dq[-1]
   ```
+
+- **Check if `char` is alphabet**
+  ```
+  >>> c = 'a'
+  >>> c.isalpha()
+  True
+  ```  
