@@ -16,6 +16,11 @@
 - [1935 - Postfix2](https://www.acmicpc.net/problem/1935)
 - [1918 - Postfix](https://www.acmicpc.net/problem/1918)
 - [10808 - Alphabet Count](https://www.acmicpc.net/problem/10808)
+- [10809 - Find Alphabet](https://www.acmicpc.net/problem/10809)
+- [10820 - String](https://www.acmicpc.net/problem/10820)
+- [2743 - String Length](https://www.acmicpc.net/problem/2743)
+
+
 
 ##
 
@@ -35,6 +40,9 @@
 - [1935](./1935_postfix2.py)
 - [1918](./1918_postfix.py)
 - [10808](./10808_alphabet_count.py)
+- [10809](./10809_find_alphabet.py)
+- [10820](./10820_string.py)
+- [2743](./2743_string_len.py)
 
 
 ##
@@ -91,9 +99,34 @@
   back = dq[-1]
   ```
 
-- **Check if `char` is alphabet**
+- **Check `char` type**
+  - alphabet
   ```
   >>> c = 'a'
   >>> c.isalpha()
   True
-  ```  
+  ``` 
+  - lowercase
+  ```
+  >>> c = 'a'
+  >>> c.islower()
+  True
+  ``` 
+  - uppercase
+  ```
+  >>> c = 'A'
+  >>> c.isupper()
+  True
+  ``` 
+  - numeric
+  ```
+  >>> c = '1'
+  >>> c.isnumeric()
+  True
+  ``` 
+  - space
+  ```
+  >>> c = ' '
+  >>> c.isspace()
+  True
+  ``` 
