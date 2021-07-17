@@ -48,3 +48,12 @@
         return nums
         
     ```
+- **Count number of multiplied Ns**
+    ```
+    def get_N_count(N, a):
+        count = 0
+        while a >= N:
+            count += a//N
+            a //= N
+        return count
+    ```
