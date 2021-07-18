@@ -10,6 +10,7 @@
 - [10872 - Factorial](https://www.acmicpc.net/problem/10872)
 - [1676 - Factorial Zero](https://www.acmicpc.net/problem/1676)
 - [2004 - Combination Zero](https://www.acmicpc.net/problem/2004)
+- [9613 - GCD Sum](https://www.acmicpc.net/problem/9613)
 
 
 
@@ -24,7 +25,8 @@
 - [6588](./6588_goldbach.py)
 - [10872](./10872_factorial.py)
 - [1676](./1676_factorial_zero.py)
-- [2004](./2004_combinations_zeropy)
+- [2004](./2004_combinations_zero.py)
+- [9613](./9613_GCD_sum.py)
 
 
 
@@ -63,7 +65,7 @@
             count += a//N
             a //= N
         return count
-    ```
+    ```x
     - ex)
     ```
     def two_count(n):  # count number of multiplied 2s in n
