@@ -7,6 +7,10 @@
 - [1978 - Find Prime](https://www.acmicpc.net/problem/1978)
 - [1929 - Prime Number](https://www.acmicpc.net/problem/1929)
 - [6588 - Goldbach](https://www.acmicpc.net/problem/6588)
+- [10872 - Factorial](https://www.acmicpc.net/problem/10872)
+- [1676 - Factorial Zero](https://www.acmicpc.net/problem/1676)
+- [2004 - Combination Zero](https://www.acmicpc.net/problem/2004)
+
 
 
 ##
@@ -15,9 +19,12 @@
 - [10430](./10430_modulo.py)
 - [2609](./2609_GCD_LCM.py)
 - [1934](./1934_LCM.py)
-- [1978](./1929_find_prime.py)
-- [1929](./1978_prime_number.py)
+- [1978](./1978_prime_number.py)
+- [1929](./1929_find_prime.py)
 - [6588](./6588_goldbach.py)
+- [10872](./10872_factorial.py)
+- [1676](./1676_factorial_zero.py)
+- [2004](./2004_combinations_zeropy)
 
 
 
@@ -56,4 +63,13 @@
             count += a//N
             a //= N
         return count
+    ```
+    - ex)
+    ```
+    def two_count(n):  # count number of multiplied 2s in n
+    count = 0
+    while n >= 2:
+        count += n//2
+        n //= 2
+    return count
     ```
