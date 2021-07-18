@@ -11,6 +11,11 @@
 - [1676 - Factorial Zero](https://www.acmicpc.net/problem/1676)
 - [2004 - Combination Zero](https://www.acmicpc.net/problem/2004)
 - [9613 - GCD Sum](https://www.acmicpc.net/problem/9613)
+- [17087 - Hide and Seek6](https://www.acmicpc.net/problem/17087)
+- [1373 - 2 to 8 decimals](https://www.acmicpc.net/problem/1373)
+- [1212 - 8 to 2 decimals](https://www.acmicpc.net/problem/1212)
+- [2089 - -2 decimals](https://www.acmicpc.net/problem/2089)
+- [17103 - Goldbach Partition](https://www.acmicpc.net/problem/17103)
 
 
 
@@ -27,6 +32,11 @@
 - [1676](./1676_factorial_zero.py)
 - [2004](./2004_combinations_zero.py)
 - [9613](./9613_GCD_sum.py)
+- [17087](./1708_hideandseek6.py)
+- [1373](./1371_2_8_decimals.py)
+- [1212](./1212_8_2_decimals.py)
+- [2089](./2089_neg_binary.py)
+- [17103](./17103_goldbach_partition.py)
 
 
 
