@@ -18,3 +18,4 @@ Prepare for programming tests and learn major algorithms.
 1. [Pre-Warmup](./pre-warmup/pre-warmup.md)
 2. [Data Structure](./data-structure/data-structure.md)
 3. [Math](./math/math.md)
+4. [Dynamic Programming](./dp/dp.md)
