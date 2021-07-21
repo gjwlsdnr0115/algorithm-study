@@ -16,6 +16,10 @@
 - [1212 - 8 to 2 decimals](https://www.acmicpc.net/problem/1212)
 - [2089 - -2 decimals](https://www.acmicpc.net/problem/2089)
 - [17103 - Goldbach Partition](https://www.acmicpc.net/problem/17103)
+- [11005 - decimals2](https://www.acmicpc.net/problem/11005)
+- [2745 - decimals](https://www.acmicpc.net/problem/2745)
+- [11576 - Base Conversion](https://www.acmicpc.net/problem/11576)
+- [11653 - Factorization](https://www.acmicpc.net/problem/11653)
 
 
 
@@ -37,6 +41,10 @@
 - [1212](./1212_8_2_decimals.py)
 - [2089](./2089_neg_binary.py)
 - [17103](./17103_goldbach_partition.py)
+- [11005](./11005_decimals2.py)
+- [2745](./2745_decimals.py)
+- [11576](./11576_base_conversion.py)
+- [11653](./11653_factorization.py)
 
 
 
