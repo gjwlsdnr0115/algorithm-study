@@ -1,4 +1,4 @@
-# Math
+# Dynamic Programming
 
 ### Problems
 - [1463 - Make 1](https://www.acmicpc.net/problem/1463)
@@ -12,6 +12,9 @@
 - [2193 - Pinary Number](https://www.acmicpc.net/problem/2193)
 - [11053 - LIS](https://www.acmicpc.net/problem/11053)
 - [14002 - LIS4](https://www.acmicpc.net/problem/14002)
+- [1912 - Sequence Sum](https://www.acmicpc.net/problem/1912)
+- [1699 - Square Sum](https://www.acmicpc.net/problem/1699)
+- [2225 - Sum Partition](https://www.acmicpc.net/problem/2225)
 
 
 ##
@@ -28,6 +31,10 @@
 - [2193](./2193_pinary_number.py)
 - [11053](./11053_LIS.py)
 - [14002](./14002_LIS4.py)
+- [1912](./1912_seq_sum.py)
+- [1699](./1699_sqr_sum.py)
+- [2225](./2225_sum_partition.py)
+
 
 
 ##
