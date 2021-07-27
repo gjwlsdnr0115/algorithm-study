@@ -15,6 +15,9 @@
 - [1912 - Sequence Sum](https://www.acmicpc.net/problem/1912)
 - [1699 - Square Sum](https://www.acmicpc.net/problem/1699)
 - [2225 - Sum Partition](https://www.acmicpc.net/problem/2225)
+- [15988 - 123 Add](https://www.acmicpc.net/problem/15988)
+- [1149 - RGB](https://www.acmicpc.net/problem/1149)
+- [1309 - Zoo](https://www.acmicpc.net/problem/1309)
 
 
 ##
@@ -34,6 +37,9 @@
 - [1912](./1912_seq_sum.py)
 - [1699](./1699_sqr_sum.py)
 - [2225](./2225_sum_partition.py)
+- [15988](./15988_123_add3.py)
+- [1149](./1149_RGB.py)
+- [1309](./1309_zoo.py)
 
 
 
