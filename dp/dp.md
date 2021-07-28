@@ -18,6 +18,9 @@
 - [15988 - 123 Add](https://www.acmicpc.net/problem/15988)
 - [1149 - RGB](https://www.acmicpc.net/problem/1149)
 - [1309 - Zoo](https://www.acmicpc.net/problem/1309)
+- [11057 - Ascending](https://www.acmicpc.net/problem/11507)
+- [9455 - Sticker](https://www.acmicpc.net/problem/9455)
+- [2156 - Wine](https://www.acmicpc.net/problem/2156)
 
 
 ##
@@ -40,6 +43,9 @@
 - [15988](./15988_123_add3.py)
 - [1149](./1149_RGB.py)
 - [1309](./1309_zoo.py)
+- [11057](./11057_ascending.py)
+- [9455](./9455_sticker.py)
+- [2156](./2156_wine.py)
 
 
 
