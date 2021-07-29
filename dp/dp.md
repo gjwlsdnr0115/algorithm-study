@@ -21,7 +21,9 @@
 - [11057 - Ascending](https://www.acmicpc.net/problem/11507)
 - [9455 - Sticker](https://www.acmicpc.net/problem/9455)
 - [2156 - Wine](https://www.acmicpc.net/problem/2156)
-
+- [1932 - Triangle](https://www.acmicpc.net/problem/1932)
+- [11055 - BIS](https://www.acmicpc.net/problem/11055)
+- [11722 - LDS](https://www.acmicpc.net/problem/11722)
 
 ##
 
@@ -46,6 +48,9 @@
 - [11057](./11057_ascending.py)
 - [9455](./9455_sticker.py)
 - [2156](./2156_wine.py)
+- [1932](./1932_triangle.py)
+- [11055](./11055_BIS.py)
+- [11722](./11722_LDS.py)
 
 
 
