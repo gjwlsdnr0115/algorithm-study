@@ -24,6 +24,9 @@
 - [1932 - Triangle](https://www.acmicpc.net/problem/1932)
 - [11055 - BIS](https://www.acmicpc.net/problem/11055)
 - [11722 - LDS](https://www.acmicpc.net/problem/11722)
+- [11054 - LBS](https://www.acmicpc.net/problem/11054)
+- [13398 - Sequence Sum2](https://www.acmicpc.net/problem/13398)
+- [2133 - Tiles](https://www.acmicpc.net/problem/2133)
 
 ##
 
@@ -51,6 +54,9 @@
 - [1932](./1932_triangle.py)
 - [11055](./11055_BIS.py)
 - [11722](./11722_LDS.py)
+- [11054](./11054_LBS.py)
+- [13398](./13398_seq_sum2.py)
+- [2133](./2133_tiles.py)
 
 
 
