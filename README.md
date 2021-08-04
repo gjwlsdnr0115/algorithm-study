@@ -19,4 +19,4 @@ Prepare for programming tests and learn major algorithms.
 2. [Data Structure](./data-structure/data-structure.md)
 3. [Math](./math/math.md)
 4. [Dynamic Programming](./dp/dp.md)
-5. [Brute Force](./dp/dp.md)
+5. [Brute Force](./brute_force/brute_force.md)
