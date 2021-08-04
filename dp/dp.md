@@ -27,6 +27,10 @@
 - [11054 - LBS](https://www.acmicpc.net/problem/11054)
 - [13398 - Sequence Sum2](https://www.acmicpc.net/problem/13398)
 - [2133 - Tiles](https://www.acmicpc.net/problem/2133)
+- [1309 - Zoo](https://www.acmicpc.net/problem/1309)
+- [17404 - RGB2](https://www.acmicpc.net/problem/17404)
+- [2225 - Sum Partition](https://www.acmicpc.net/problem/2225)
+
 
 ##
 
@@ -57,6 +61,9 @@
 - [11054](./11054_LBS.py)
 - [13398](./13398_seq_sum2.py)
 - [2133](./2133_tiles.py)
+- [1309](./1309_zoo.py)
+- [17404](./17404_RGB2.py)
+- [2225](./2225_sum_partition.py)
 
 
 
